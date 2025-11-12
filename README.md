@@ -1,5 +1,4 @@
 # README_MatheusCarmend
-# Olá 👋 sou o Matheus Cardoso
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)  
 💻 Foco: Back-end (C#, .NET) — construindo APIs e sistemas com boas práticas  
